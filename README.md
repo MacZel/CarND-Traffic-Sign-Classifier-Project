@@ -16,9 +16,9 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [chart1]: ./readme_imgs/chart1.png "Labels occurence frequency distributions"
-[chart2]: ./readme_imgs/chart2.jpng "Labels occurence frequency distributions combined descending"
+[chart2]: ./readme_imgs/chart2.png "Labels occurence frequency distributions combined descending"
 [mean_std]: ./readme_imgs/mean_std.png "Mean & Standard Deviation of Training Set"
-[bokeh]: ./readme_imgs/bokeh.png "Bokeh Interactive plot"
+[bokeh]: ./readme_imgs/bokeh.PNG "Bokeh Interactive plot"
 [valid_acc]: ./readme_imgs/valid_acc.png "Validation Accuracy"
 [train_acc]: ./readme_imgs/train_acc.png "Training Accuracy"
 
