@@ -170,7 +170,7 @@ My final model results were:
 * What architecture was chosen?
 The first architecture that was tried was LeNet model. It was chosen because of its simplicity and good accuracy values obtained.
 I did also play with model based on article:
-![Traffic Sign Recognition with Multi-Scale Convolutional Networks](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf)
+[Traffic Sign Recognition with Multi-Scale Convolutional Networks](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf)
 but didn't manage to gain more on accuracy, so I abandoned this model, and came back to LeNet.
 * What were some problems with the initial architecture?
 First LeNet architecture was modified with the droput becase of large accuracy difference between training and validation sets. Probably due to overfitting. To make the model less prone to fall into redundancy the droputs were introduced between last three fully conected layers.
@@ -223,11 +223,11 @@ For the first, third and fourth images, the model is sure that this is a stop si
 | 57				    | Go straight or left							|
 
 Below are the visualizations of top 5 softmax probabilities for found images:
-![Mean & Standard Deviation of Training Set][top_5_1]
-![Mean & Standard Deviation of Training Set][top_5_2]
-![Mean & Standard Deviation of Training Set][top_5_3]
-![Mean & Standard Deviation of Training Set][top_5_4]
-![Mean & Standard Deviation of Training Set][top_5_5]
+* [Mean & Standard Deviation of Training Set][top_5_1]
+* [Mean & Standard Deviation of Training Set][top_5_2]
+* [Mean & Standard Deviation of Training Set][top_5_3]
+* [Mean & Standard Deviation of Training Set][top_5_4]
+* [Mean & Standard Deviation of Training Set][top_5_5]
 
 ### Articles I made use of:
 * ![Image Data Pre-Processing for Neural Networks](https://becominghuman.ai/image-data-pre-processing-for-neural-networks-498289068258)
