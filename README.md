@@ -223,20 +223,20 @@ For the first, third and fourth images, the model is sure that this is a stop si
 | 57				    | Go straight or left							|
 
 Below are the visualizations of top 5 softmax probabilities for found images:
-* [Mean & Standard Deviation of Training Set][top_5_1]
-* [Mean & Standard Deviation of Training Set][top_5_2]
-* [Mean & Standard Deviation of Training Set][top_5_3]
-* [Mean & Standard Deviation of Training Set][top_5_4]
-* [Mean & Standard Deviation of Training Set][top_5_5]
+![Mean & Standard Deviation of Training Set][top_5_1]
+![Mean & Standard Deviation of Training Set][top_5_2]
+![Mean & Standard Deviation of Training Set][top_5_3]
+![Mean & Standard Deviation of Training Set][top_5_4]
+![Mean & Standard Deviation of Training Set][top_5_5]
 
 ### Articles I made use of:
-* ![Image Data Pre-Processing for Neural Networks](https://becominghuman.ai/image-data-pre-processing-for-neural-networks-498289068258)
-* ![NanoNets : How to use Deep Learning when you have Limited Data](https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab)
-* ![Data Augmentation | How to use Deep Learning when you have Limited Data — Part 2](https://medium.com/nanonets/how-to-use-deep-learning-when-you-have-limited-data-part-2-data-augmentation-c26971dc8ced)
-* ![Traffic Sign Recognition with Multi-Scale Convolutional Networks](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf)
-* ![A Gentle Introduction to Normality Tests in Python](https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/)
-* ![Data Augmentation Techniques in CNN using Tensorflow](https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9)
-* ![Tensorflow Image: Augmentation on GPU](https://towardsdatascience.com/tensorflow-image-augmentation-on-gpu-bf0eaac4c967)
+* [Image Data Pre-Processing for Neural Networks](https://becominghuman.ai/image-data-pre-processing-for-neural-networks-498289068258)
+* [NanoNets : How to use Deep Learning when you have Limited Data](https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab)
+* [Data Augmentation | How to use Deep Learning when you have Limited Data — Part 2](https://medium.com/nanonets/how-to-use-deep-learning-when-you-have-limited-data-part-2-data-augmentation-c26971dc8ced)
+* [Traffic Sign Recognition with Multi-Scale Convolutional Networks](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf)
+* [A Gentle Introduction to Normality Tests in Python](https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/)
+* [Data Augmentation Techniques in CNN using Tensorflow](https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9)
+* [Tensorflow Image: Augmentation on GPU](https://towardsdatascience.com/tensorflow-image-augmentation-on-gpu-bf0eaac4c967)
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
