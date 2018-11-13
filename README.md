@@ -102,7 +102,7 @@ For image inputs, pixel values should be positive, so data should be normalized 
 Normalization step on training set is depicted below:
 ![Normalized training images][norm]
 
-I did obtain a very close to zero mean over the whole training set (MEAN:  0.00766), and the approximately equal standard variation.
+I did obtain a very close to zero mean over the whole training set (MEAN:  0.00766), and the approximately equal standard deviation.
 Below images depict mean image and standard deviation over training set.
 
 ![Mean & Standard Deviation of Training Set][mean_std]
