@@ -1,8 +1,8 @@
 # **Traffic Sign Recognition** 
 
-## Writeup
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
----
+## Writeup
 
 The goals / steps of this project are the following:
 * Load the data set (see below for links to the project data set)
@@ -11,9 +11,6 @@ The goals / steps of this project are the following:
 * Use the model to make predictions on new images
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
-
-
-[//]: # (Image References)
 
 [chart1]: ./readme_imgs/chart1.png "Labels occurence frequency distributions"
 [chart2]: ./readme_imgs/chart2.png "Labels occurence frequency distributions combined descending"
@@ -40,7 +37,6 @@ The goals / steps of this project are the following:
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
 
----
 ### Writeup / README
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
